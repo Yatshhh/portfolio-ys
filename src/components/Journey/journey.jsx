@@ -21,6 +21,7 @@ const journey = () => {
                 <div class="info">~ Building Microservices in C++</div>
                 <div class="info">~ Integration of REDIS-DB</div>
                 <div class="info">~ API development</div>
+                <div class="info">~ GUI development using React JS</div>
                 <div class="time">
                   <span>PRESENT</span>
                   <span>AUG 2021</span>
