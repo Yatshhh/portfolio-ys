@@ -27,7 +27,8 @@ import {
   SiLinux,
   SiVisualstudiocode,
   SiMongodb,
-  SiFlask
+  SiFlask,
+  SiPostman
 } from "react-icons/si";
 
 
@@ -55,6 +56,7 @@ const myskills = () => {
           <div className="skill-items" id="skill-item10"><SiLinux /></div>
           <div className="skill-items" id="skill-item11"><SiVisualstudiocode /></div>
           <div className="skill-items" id="skill-item11"><SiFlask /></div>
+          <div className="skill-items" id="skill-item11"><SiPostman /></div>
 
 
 
