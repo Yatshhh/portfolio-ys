@@ -18,10 +18,11 @@ const journey = () => {
                 <span></span>
                 <div class="title"><h5><CgEditBlackPoint/> SOFTWARE DEVELOPER</h5></div>
                 <div class="info">~ Currently working as Software Developer at TCS</div>
-                <div class="info">~ Building Microservices in C++</div>
-                <div class="info">~ Integration of REDIS-DB</div>
-                <div class="info">~ API development</div>
-                <div class="info">~ GUI development using React JS</div>
+                <div class="info">~ Developed Microservices using Node.js and Express.js</div>
+                <div class="info">~ Integration of MongoDB Database</div>
+                <div class="info">~ REST Api development</div>
+                <div class="info">~ Developed web apps using React JS</div>
+                <div class="info">~ Used Redux for state management</div>
                 <div class="time">
                   <span>PRESENT</span>
                   <span>AUG 2021</span>

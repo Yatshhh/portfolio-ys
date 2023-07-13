@@ -5,7 +5,7 @@ import me from "../images/me.png";
 // import { IoPartlySunny } from "react-icons/io5";
 // import Mode from "../Modes/mode";
 
-import MyCV from '../Arpit_CV.pdf'
+import MyCV from '../Arpit_Sharma_CV.pdf'
 const Intro = () => {
   return (
     <>

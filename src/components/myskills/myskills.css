@@ -13,7 +13,6 @@
   /* height:calc(100vh - 110px); */
   /* background-color: rebeccapurple; */
   margin: 2rem;
-
 }
 /*
 .skillset .skill-items {
@@ -36,13 +35,12 @@
 }
  */
 
-
-
- .skill-items {
+.skill-items {
+  box-sizing: border-box;
   height: 150px;
-  margin: 2rem;
+  margin: 1.5rem;
   /* background-color: aqua; */
-  font-size: 4.5em !important;
+  font-size: 3.5em !important;
   /* margin: 15px !important; */
   padding: 10px !important;
   opacity: 0.93 !important;
@@ -62,44 +60,47 @@
   cursor: pointer;
   color: white;
 }
-
+.txt{
+  background-color: rgba(22, 8, 47, 0.5);
+  width: 100%;
+  height: 2rem;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+}
+.skill-items p{
+  /* background-color: rgba(22, 8, 47, 0.5); */
+  font-size: 1rem;
+}
 .skill-items:hover {
+  /* visibility: 0.5px; */
   background-color: rgba(22, 8, 47, 0.5);
   transform: scale(1.05) !important;
   overflow: hidden !important;
   border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
 }
 
-
-
 @media screen and (max-width: 1200px) {
   .skillset {
     grid-template-columns: auto auto auto;
   }
-
 }
 @media screen and (max-width: 1004px) {
-
 }
 @media screen and (max-width: 750px) {
   .skillset {
-    grid-template-columns: auto auto ;
+    grid-template-columns: auto auto;
   }
-
-
-
 }
 
 @media screen and (max-width: 640px) {
-  .skillset{
+  .skillset {
     margin: 0;
   }
 }
 
-
 @media screen and (max-width: 480px) {
-  .skill-items{
+  .skill-items {
     margin: 1rem;
   }
-
 }
