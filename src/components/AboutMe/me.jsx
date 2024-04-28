@@ -1,7 +1,7 @@
 import React from 'react'
 import './me.css';
 // import img1 from '../images/img1.png';
-import img2 from '../images/img2.jpeg';
+import img2 from '../images/arpit.jpeg';
 import { FaQuoteLeft } from 'react-icons/fa';
 // import { FaQuoteRight } from 'react-icons/fa';
 import Title from '../title/Title';
@@ -26,7 +26,7 @@ const me = () => {
                 I am a tech enthusiast who  is always eager to learn
                 more tech stuffs. My core interest is to  develop an
                 effective and comprehensive solutions using my skills. Currently I am
-                working in TCS as a <span>software developer.</span>
+                working in Suzuki Digital as a <span>software developer.</span>
               </h5>
               {/* <h1>right</h1> */}
               {/* <div className="mebtn">

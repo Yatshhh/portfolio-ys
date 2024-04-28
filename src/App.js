@@ -18,9 +18,10 @@ const App = () => {
       <Mode />
       <Intro />
       <Me />
-      <Myskills />
       <Journey />
       <Projects />
+      <Myskills />
+
       <Contact />
       <Footer />
 

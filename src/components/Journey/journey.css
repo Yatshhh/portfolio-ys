@@ -6,7 +6,7 @@
   /* background-color: rebeccapurple; */
   /* height: calc(150vh-110px); */
   overflow: hidden;
-  padding: 10px 0 40px 60px;
+  /* padding: 10px 0 40px 60px; */
   /* margin-bottom: 5rem; */
 }
 
@@ -20,13 +20,15 @@
 }
 
 .box ul {
-
   list-style-type: none;
   margin: 0;
   padding: 0;
   position: relative;
   transition: all 0.5s linear;
-  top: 0
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 /* .box ul:last-of-type{top:80px} */
@@ -47,6 +49,8 @@
   position: relative;
   padding: 10px 20px;
   /* background:rgba(255, 255, 255, 0.3); */
+  background-color: rgba(22, 8, 47, 0.5);
+
   color: #fff;
   border-radius: 10px;
   line-height: 20px;
@@ -79,7 +83,9 @@
   background: #ffffff;
   border: 2px solid #fff;
   position: absolute;
-  left: -7.5px
+  left: -7.5px;
+  margin-top: 5px;
+  /* top: 110px; */
 }
 
 .box ul li>span:before {
@@ -89,10 +95,23 @@
 .box ul li>span:after {
   top: 95%
 }
+.box .info{
+  display: flex;
+  gap: 8px;
+  /* font-size: 18px; */
 
+
+  /* border: 2px solid red; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* flex-direction: column; */
+}
+.box .info .ttt{
+  font-size: 18px;
+}
 .box .info:first-letter {
   text-transform: capitalize;
-  line-height: 1.7
+  line-height: 1.7;
 }
 
 .box .name {
@@ -106,22 +125,47 @@
 
 .box .time span {
   position: absolute;
-  left: -100px;
+  left: -60px;
   color: #fff;
   font-size: 80%;
   font-weight: bold;
 }
 
 .box .time span:first-child {
-  top: -16px
+  top: -27px
 }
 
 .box .time span:last-child {
-  top: 94%
+  top: 105%
 }
 
+.title{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.title h5{
+  font-size: 14px;
+}
+.cmp{
+  font-size: 60px;
+  margin-bottom: 30px;
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+.cmp1{
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  /* gap:-10px; */
+}
+.cmp2{
+  font-size: 14px;
 
-
+}
 
 @media screen and (max-width: 1004px) {
   .box-child {
@@ -136,12 +180,33 @@
 
 
   .box-child {
-    width: 80%;
+    width: 90%;
     padding-right: 2rem;
+    /* justify-content: flex-start; */
+  }
+  .box{
     justify-content: flex-start;
   }
-
-
+  .box .time span:last-child {
+    top: 102%
+  }
+  .box .info{
+    font-size: 12px;
+  }
+  .title h5{
+    font-size: 12px;
+  }
+  .cmp{
+  font-size: 50px;
+  gap: 10px;
+    margin-bottom: 20px;
+  }
+  .cmp1{
+    font-size: 14px;
+  }
+  .cmp2{
+    font-size: 10px;
+  }
 }
 
 @media screen and (max-width: 640px) {

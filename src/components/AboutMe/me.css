@@ -36,6 +36,8 @@ margin-bottom: 5rem;
   border-radius: 2rem;
   transform: rotate(5deg);
   cursor: pointer;
+  /* scale: 2; */
+/*  */
   /* z-index: -1; */
 }
 
