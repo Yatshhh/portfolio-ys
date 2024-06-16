@@ -4,8 +4,8 @@ import Title from '../title/Title'
 // import {IoSchool} from'react-icons/io';
 
 import { CgEditBlackPoint } from 'react-icons/cg';
-import { SiTata } from "react-icons/si";
-import { SiSuzuki} from "react-icons/si";
+import { SiInfosys } from "react-icons/si";
+
 import { FaLaptopCode } from "react-icons/fa6";
 import { SiTcs } from "react-icons/si";
 import { PiArrowCircleRightFill } from "react-icons/pi";
@@ -20,7 +20,7 @@ const journey = () => {
             <ul id="first-list">
             <li>
                 <span></span>
-                <div class="cmp"><SiSuzuki/><div class="cmp1"><div>INFOSYS Pvt. Ltd.</div><div class="cmp2">NOIDA</div></div></div>
+                <div class="cmp"><SiInfosys/><div class="cmp1"><div>INFOSYS Pvt. Ltd.</div><div class="cmp2">NOIDA</div></div></div>
                 <div class="title"><FaLaptopCode/> <h5>Developer</h5></div>
                 <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Currently working as DevOps Engineer at Infosys</div></div>
                 <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Responsible for Deployments and Manage Cluster Orchestration</div></div>
@@ -28,7 +28,7 @@ const journey = () => {
                 <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Creating a dashboard using Grafana and Prometheus for monitoring</div></div>
                 <div class="time">
                   <span>PRESENT</span>
-                  <span>JUNE 2024</span>
+                  <span>JUNE 2022</span>
                 </div>
               </li>     
               {/* <li>
