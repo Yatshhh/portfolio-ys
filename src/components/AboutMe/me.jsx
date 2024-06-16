@@ -1,7 +1,7 @@
 import React from 'react'
 import './me.css';
 // import img1 from '../images/img1.png';
-import img2 from '../images/yatendra.jpeg';
+import img2 from '../images/yatendra.jpg';
 import { FaQuoteLeft } from 'react-icons/fa';
 // import { FaQuoteRight } from 'react-icons/fa';
 import Title from '../title/Title';
