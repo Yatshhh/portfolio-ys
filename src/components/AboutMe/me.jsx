@@ -22,11 +22,12 @@ const me = () => {
             <div className="merightcontent">
               <h1>
               <FaQuoteLeft /></h1>
-              <h5>Namaste,<br /> I am <span>Arpit Sharma</span> from Aligarh, UP, INDIA.
-                I am a tech enthusiast who  is always eager to learn
-                more tech stuffs. My core interest is to  develop an
-                effective and comprehensive solutions using my skills. Currently I am
-                working in Suzuki Digital as a <span>software developer.</span>
+              <h5>Namaste,<br /> I am <span>Yatendra Sharma</span> from Aligarh, UP, INDIA.
+                who thrive on orchestrating seamless collaboration between development and
+                operations teams to optimize and elevate the entire software development  
+                lifecycle. My mission is to break down silos, streamline processes, and
+                drive continuous improvement to deliver high-quality software at scale.                 
+                Currently I am working in Infosys LTd  as a <span>DevOps Engineer.</span>          
               </h5>
               {/* <h1>right</h1> */}
               {/* <div className="mebtn">
