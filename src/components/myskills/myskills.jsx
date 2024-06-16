@@ -27,7 +27,7 @@ import {
   SiTerraform,
   SiGrafana,
   SiPrometheus,
-  SiPython,
+  SiYaml,
   SiMicrosoftazure,
   SiAzure,
   SiAmazonaws
@@ -56,7 +56,7 @@ const Myskills = () => {
           <div className="skill-items" id="skill-item5"><SiGrafana /><p className='txt'>Grafana</p></div>
           <div className="skill-items" id="skill-item6"><SiPrometheus /><p className='txt'>Prometheus</p></div>
           
-          <div className="skill-items" id="skill-item3"><SiPython /><p className='txt'>Python</p></div>
+          <div className="skill-items" id="skill-item3"><SiYaml /><p className='txt'>Yaml</p></div>
          
             
     
