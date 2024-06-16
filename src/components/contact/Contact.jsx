@@ -45,13 +45,7 @@ const Contact = () => {
             url="https://www.linkedin.com/in/yatendra-sharma27/"
             msg="get connected"
           />
-          <Card
-            one={<AiFillInstagram />}
-            two="Follow me"
-            three="iem.arpit"
-            url="https://instagram.com/iem.arpit?igshid=YmMyMTA2M2Y="
-            msg="follow now"
-          />
+
           <Card
             one={<BsGithub />}
             two="Follow me"
