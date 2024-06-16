@@ -27,7 +27,7 @@ const me = () => {
                 operations teams to optimize and elevate the entire software development  
                 lifecycle. My mission is to break down silos, streamline processes, and
                 drive continuous improvement to deliver high-quality software at scale.                 
-                Currently I am working in Infosys LTd  as a <span>DevOps Engineer.</span>          
+                Currently I am working in Infosys Limited  as a <span>DevOps Engineer.</span>          
               </h5>
               {/* <h1>right</h1> */}
               {/* <div className="mebtn">
