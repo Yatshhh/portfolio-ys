@@ -36,14 +36,36 @@ const journey = () => {
                 <div class="title"><h5><CgEditBlackPoint/> ENGINEERING</h5></div>
                 <div class="info">~ From Raj Kumar Goel Institute of Technology, Ghaziabad</div>                
                 <div class="info">~ Completed with 78.0 %</div>
+                <div class="info">~ Graduated in Civil Engineering</div>
+                <div class="info">~ Completed with 78.0 %</div>
 
                 <div class="time">
                   <span>JUL 2021</span>
                   <span>AUG 2017</span>
                 </div>
-              </li> */}             
-            
-             
+              </li> */}
+              {/* <li>
+                <span></span>
+                <div class="title"><h5><CgEditBlackPoint/> INTERMEDIATE</h5></div>
+                <div class="info">~ From City Convent sr. sec. school , Aligarh</div>
+                <div class="info">~ Studied PCM with CS</div>
+                
+                <div class="time">
+                  <span>JUL 2017</span>
+                  <span>AUG 2016</span>
+                </div>
+              </li> */}
+              {/* <li>
+                <span></span>
+                <div class="title"><h5><CgEditBlackPoint/> HIGH SCHOOL</h5></div>
+                <div class="info">~ From City Convent sr. sec. school</div>
+                <div class="info">~ Qulaified with 8.6 CGPA</div>
+
+                <div class="time">
+                  <span>JUL 2014</span>
+                  <span>AUG 2013</span>
+                </div>
+              </li> */}
             </ul>
           </div>
 
