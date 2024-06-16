@@ -27,8 +27,8 @@ import {
   SiTerraform,
   SiGrafana,
   SiPrometheus,
-  SiEKS,
-  SiAKS,
+
+  
   SiPython,
   SiHelmChart,
   SiBash,
@@ -58,11 +58,10 @@ const Myskills = () => {
           <div className="skill-items" id="skill-item5"><SiTerraform /><p className='txt'>Terraform</p></div>
           <div className="skill-items" id="skill-item5"><SiGrafana /><p className='txt'>Grafana</p></div>
           <div className="skill-items" id="skill-item6"><SiPrometheus /><p className='txt'>Prometheus</p></div>
-          <div className="skill-items" id="skill-item6"><SiEKS /><p className='txt'>EKS(Elastic Kubernetes Services)</p></div>
-          <div className="skill-items" id="skill-item2"><SiAKS /><p className='txt'>AKS(Azure Kubernetes Services)</p></div>
+          
           <div className="skill-items" id="skill-item3"><SiPython /><p className='txt'>Python</p></div>
          
-          <div className="skill-items" id="skill-item8"><SiHelmChart /><p className='txt'>Helm Chart</p></div>      
+            
     
           <div className="skill-items" id="skill-item10"><SiBash /><p className='txt'>Bash</p></div>
           <div className="skill-items" id="skill-item11"><SiAzure /><p className='txt'>Azure</p></div>
