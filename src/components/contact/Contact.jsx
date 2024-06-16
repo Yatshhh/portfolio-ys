@@ -41,8 +41,8 @@ const Contact = () => {
           <Card
             one={<BsLinkedin />}
             two="Connect me"
-            three="Arpit Kumar Sharma"
-            url="https://www.linkedin.com/in/arpit25/"
+            three="Yatendra Sharma"
+            url="https://www.linkedin.com/in/yatendra-sharma27/"
             msg="get connected"
           />
           <Card
@@ -56,7 +56,7 @@ const Contact = () => {
             one={<BsGithub />}
             two="Follow me"
             three="arpitsha25"
-            url="https://github.com/arpitsha25"
+            url="https://github.com/yatshhh"
             msg="follow now"
           />
         </div>
