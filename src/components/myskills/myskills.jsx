@@ -27,11 +27,8 @@ import {
   SiTerraform,
   SiGrafana,
   SiPrometheus,
-
-  
   SiPython,
-  SiHelmChart,
-  SiBash,
+  SiElasticKubernetesService,
   SiAzure,
   SiAmazonaws
 } from "react-icons/si";
@@ -63,7 +60,7 @@ const Myskills = () => {
          
             
     
-          <div className="skill-items" id="skill-item10"><SiBash /><p className='txt'>Bash</p></div>
+          <div className="skill-items" id="skill-item10"><SiElasticKubernetesService  /><p className='txt'>ElasticKubernetesService</p></div>
           <div className="skill-items" id="skill-item11"><SiAzure /><p className='txt'>Azure</p></div>
           <div className="skill-items" id="skill-item11"><SiAmazonaws /><p className='txt'>Amazon AWS</p></div>
 
