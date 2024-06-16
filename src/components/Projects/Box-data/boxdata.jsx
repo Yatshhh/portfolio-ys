@@ -2,9 +2,9 @@ import React from "react";
 // import { FaFileCode } from 'react-icons/fa';
 // import FaFileCode from ''
 import "./boxdata.css";
-// import Ai from "/home/arpit/PROJECT/React-practice/arpit/src/components/images/ai.jpg";
+
 const boxdata = (props) => {
-  // const images =[{Ai}];
+  
   return (
     <>
 
