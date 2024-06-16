@@ -18,23 +18,21 @@ import {
   // SiPytorch,
   // SiFirebase,
   // SiNextdotjs,
-  SiCplusplus,
-  SiJavascript,
-  SiPython,
-  SiHtml5,
-  SiCss3,
-  SiReact,
-  SiRedis,
   SiLinux,
-  SiVisualstudiocode,
-  SiMongodb,
-  SiFlask,
-  SiPostman,
-  SiExpress,
-  SiNodedotjs,
-  SiRedux,
-  SiNestjs,
-  SiTailwindcss,
+  SiGit,
+  SiDocker,
+  Sikubernetes,
+  SiJenkins,
+  SiAnsible,
+  SiTerraform,
+  SiGrafana,
+  SiPrometheus,
+  SiEKS,
+  SiAKS,
+  SiPython,
+  SiHelmChart,
+  SiBash,
+  SiAzure,
   SiAmazonaws
 } from "react-icons/si";
 
@@ -60,8 +58,8 @@ const Myskills = () => {
           <div className="skill-items" id="skill-item5"><SiTerraform /><p className='txt'>Terraform</p></div>
           <div className="skill-items" id="skill-item5"><SiGrafana /><p className='txt'>Grafana</p></div>
           <div className="skill-items" id="skill-item6"><SiPrometheus /><p className='txt'>Prometheus</p></div>
-          <div className="skill-items" id="skill-item6"><SiEKS(Elastic Kubernetes Services) /><p className='txt'>EKS(Elastic Kubernetes Services)</p></div>
-          <div className="skill-items" id="skill-item2"><SiAKS(Azure Kubernetes Services) /><p className='txt'>AKS(Azure Kubernetes Services)</p></div>
+          <div className="skill-items" id="skill-item6"><SiEKS /><p className='txt'>EKS(Elastic Kubernetes Services)</p></div>
+          <div className="skill-items" id="skill-item2"><SiAKS /><p className='txt'>AKS(Azure Kubernetes Services)</p></div>
           <div className="skill-items" id="skill-item3"><SiPython /><p className='txt'>Python</p></div>
          
           <div className="skill-items" id="skill-item8"><SiHelmChart /><p className='txt'>Helm Chart</p></div>      
