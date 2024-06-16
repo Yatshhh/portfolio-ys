@@ -5,10 +5,9 @@ const footer = () => {
     <>
       <div className="fcontainer">
         {/* <div className="thanks">
-          <h5>- ARPIT SHARMA -</h5>
+          <h5>- YATENDRA SHARMA -</h5>
         </div> */}
-        <div className="copyright">
-          <p>Designed and developed by Arpit Sharma</p>
+        <div className="copyright">          
           <p>copyright&#169;2022</p>
         </div>
       </div>
