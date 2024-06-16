@@ -28,7 +28,7 @@ import {
   SiGrafana,
   SiPrometheus,
   SiPython,
-  SiVisualstudiocode,
+  SiMicrosoftazure,
   SiAzure,
   SiAmazonaws
 } from "react-icons/si";
@@ -60,7 +60,7 @@ const Myskills = () => {
          
             
     
-          <div className="skill-items" id="skill-item11"><SiVisualstudiocode /><p className='txt'>VS Code</p></div>
+          <div className="skill-items" id="skill-item11"><SiMicrosoftazure /><p className='txt'>Azure</p></div>
           
           <div className="skill-items" id="skill-item11"><SiAmazonaws /><p className='txt'>Amazon AWS</p></div>
 
