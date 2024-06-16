@@ -5,7 +5,7 @@ import me from "../images/me.png";
 // import { IoPartlySunny } from "react-icons/io5";
 // import Mode from "../Modes/mode";
 
-import MyCV from '../Arpit_Sharma_CV.pdf'
+import MyCV from '../Yatedra's resume.pdf'
 const Intro = () => {
   return (
     <>
@@ -22,13 +22,13 @@ const Intro = () => {
         <div className="box1">
           <div className="box1content">
             <h4>Hello, I am</h4>
-            <h1>Arpit Sharma</h1>
-            <h4>Fullstack developer</h4>
+            <h1>Yatendra Sharma</h1>
+            <h4>DevOps Engineer</h4>
           </div>
 
           <div className="btn">
             <button>
-              <a href={MyCV} download = "Arpit_CV">
+              <a href={MyCV} download = "Yatendra_CV">
                 <h5>Download CV</h5>
               </a>
             </button>
