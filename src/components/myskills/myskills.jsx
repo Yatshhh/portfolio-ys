@@ -21,7 +21,7 @@ import {
   SiLinux,
   SiGit,
   SiDocker,
-  Sikubernetes,
+  SiKubernetes,
   SiJenkins,
   SiAnsible,
   SiTerraform,
