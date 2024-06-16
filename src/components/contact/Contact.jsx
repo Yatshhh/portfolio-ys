@@ -55,7 +55,7 @@ const Contact = () => {
           <Card
             one={<BsGithub />}
             two="Follow me"
-            three="arpitsha25"
+            three="Yatshhh"
             url="https://github.com/yatshhh"
             msg="follow now"
           />
