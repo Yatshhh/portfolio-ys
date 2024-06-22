@@ -28,7 +28,7 @@ const Intro = () => {
 
           <div className="btn">
             <button>
-              <a href={MyCV} download = "Yatendra_CV">
+              <a href={MyCV} download = "Yatendra_resume">
                 <h5>Download CV</h5>
               </a>
             </button>
