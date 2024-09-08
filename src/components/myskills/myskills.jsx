@@ -21,7 +21,7 @@ import {
   SiLinux,
   SiGit,
   SiPython,
-  SiBash,
+  SiGnubash,
   SiDocker,
   SiKubernetes,
   SiHelm,
@@ -50,7 +50,7 @@ const Myskills = () => {
           
 
           <div className="skill-items" id="skill-item12"><SiLinux /><p className='txt'>Linux</p></div>
-          <div className="skill-items" id="skill-item12"><SiBash /><p className='txt'>Bash</p></div>
+          <div className="skill-items" id="skill-item12"><SiGnubash /><p className='txt'>Bash</p></div>
           <div className="skill-items" id="skill-item12"><SiPython /><p className='txt'>Python</p></div>
           <div className="skill-items" id="skill-item12"><SiGit /><p className='txt'>Git</p></div>
           <div className="skill-items" id="skill-item7"><SiDocker /><p className='txt'>Docker</p></div>
