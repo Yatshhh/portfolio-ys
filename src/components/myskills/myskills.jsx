@@ -22,6 +22,7 @@ import {
   SiGit,
   SiDocker,
   SiKubernetes,
+  SiHelm,
   SiJenkins,
   SiAnsible,
   SiTerraform,
@@ -51,7 +52,7 @@ const Myskills = () => {
           <div className="skill-items" id="skill-item7"><SiKubernetes /><p className='txt'>Kubernetes</p></div>
           <div className="skill-items" id="skill-item7"><SiJenkins /><p className='txt'>Jenkins</p></div>
           <div className="skill-items" id="skill-item4"><SiAnsible /><p className='txt'>Ansible</p></div>
-
+          <div className="skill-items" id="skill-item3"><SiHelm /><p className='txt'>Helm</p></div>
           <div className="skill-items" id="skill-item5"><SiTerraform /><p className='txt'>Terraform</p></div>
           <div className="skill-items" id="skill-item5"><SiGrafana /><p className='txt'>Grafana</p></div>
           <div className="skill-items" id="skill-item6"><SiPrometheus /><p className='txt'>Prometheus</p></div>
