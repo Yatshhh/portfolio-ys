@@ -20,10 +20,13 @@ import {
   // SiNextdotjs,
   SiLinux,
   SiGit,
+  SiPython,
+  SiBash,
   SiDocker,
   SiKubernetes,
   SiHelm,
   SiJenkins,
+  SiGitHub-Actions,
   SiAnsible,
   SiTerraform,
   SiGrafana,
@@ -46,13 +49,17 @@ const Myskills = () => {
         <div className="skillset ">
           
 
-        <div className="skill-items" id="skill-item12"><SiLinux /><p className='txt'>Linux</p></div>
+          <div className="skill-items" id="skill-item12"><SiLinux /><p className='txt'>Linux</p></div>
+          <div className="skill-items" id="skill-item12"><SiBash /><p className='txt'>Bash</p></div>
+          <div className="skill-items" id="skill-item12"><SiPython /><p className='txt'>Python</p></div>
           <div className="skill-items" id="skill-item12"><SiGit /><p className='txt'>Git</p></div>
           <div className="skill-items" id="skill-item7"><SiDocker /><p className='txt'>Docker</p></div>
           <div className="skill-items" id="skill-item7"><SiKubernetes /><p className='txt'>Kubernetes</p></div>
-          <div className="skill-items" id="skill-item7"><SiJenkins /><p className='txt'>Jenkins</p></div>
-          <div className="skill-items" id="skill-item4"><SiAnsible /><p className='txt'>Ansible</p></div>
           <div className="skill-items" id="skill-item3"><SiHelm /><p className='txt'>Helm</p></div>
+          <div className="skill-items" id="skill-item7"><SiJenkins /><p className='txt'>Jenkins</p></div>
+          <div className="skill-items" id="skill-item7"><SiGitHub-Actions /><p className='txt'>GitHub-Actions</p></div>
+          <div className="skill-items" id="skill-item4"><SiAnsible /><p className='txt'>Ansible</p></div>
+       
           <div className="skill-items" id="skill-item5"><SiTerraform /><p className='txt'>Terraform</p></div>
           <div className="skill-items" id="skill-item5"><SiGrafana /><p className='txt'>Grafana</p></div>
           <div className="skill-items" id="skill-item6"><SiPrometheus /><p className='txt'>Prometheus</p></div>
