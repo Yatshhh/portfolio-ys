@@ -23,7 +23,8 @@ const journey = () => {
                 <div class="cmp"><SiInfosys/><div class="cmp1"><div>INFOSYS Pvt. Ltd.</div><div class="cmp2">NOIDA</div></div></div>
                 <div class="title"><FaLaptopCode/> <h5>DevOps Engineer</h5></div>
                 <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Currently working as DevOps Engineer at Infosys</div></div>
-                <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Responsible for Deployments and Manage Cluster Orchestration</div></div>
+                <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Implemented CI/CD pipelines using GitHub Actions, GitLab and Jenkins</div></div>
+                <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Responsible for Deployments and Manage Kubernetes Cluster Orchestration</div></div>
                 <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Integrating Azure Container Registry for Artifact management</div></div>
                 <div class="info"><div class="ttt"><PiArrowCircleRightFill/></div> <div>Creating a dashboard using Grafana and Prometheus for monitoring</div></div>
                 <div class="time">
